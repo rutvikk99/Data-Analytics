@@ -1,0 +1,72 @@
+SQL TUTORIAL
+
+Sql tools - vscode EXTENSION 
+
+
+-- comments
+create database mydb
+create Table users (
+id int primary key,
+name varchar(255),
+email varchar(255) Not null Unique,
+bio Text ,
+country varchar(2),
+number(10)
+
+);
+
+
+INSERT VALUES
+
+
+INSERT INTO users(email,bio,country)
+value('rswek@gmqil,.com,'yoo','IN'),
+value('rrsk@gmqil,.com,'yoo','IN'),
+value('rsk@0gmail,.com,'yoo','IN');
+
+
+select * From Users;
+select email,country From Users
+WHERE COUNTRY ='IN'
+AND bio='yoo'
+AND email like 'r%'
+ORDER BY id DESC
+LIMIT 5;
+
+
+INDEX:- LOOKUP TABLE TO FIND KEYWORDS FASTER
+CREATE Index email_index ON users(email);
+
+JOINS: LEFT , RIGHT , INNER , OUTER
+
+create tables Rooms(
+id int auto_increment ,
+street varcar(255),
+owner_id int not null
+primary key (id),
+foriegn key(owner_id) references users(id)
+);
+
+REFRENCES ALLOWS THE DATABASE TO KNOW THAT DONT DELETE RELATED DATA
+
+
+
+
+INSERT INTO Rooms(owner_id ,street)
+vales
+(1,'xyz');
+
+select * from users
+left join rooms on 
+users.id=rooms.id;
+
+
+AS = ALIAS MEANING RENAMING THE FIELD WOTH OTHER NAME TO AVOID CONFUSION AND ABSCTRACTION
+
+
+DROP Table users
+DROP Database mydb
+
+
+
+

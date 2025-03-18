@@ -1,0 +1,28 @@
+codewars 
+start with easy problems 
+think about problem -
+break it down in smaller steps 
+think in smaller solutions and build up bit by bit
+write pseudo code and think in pen paper first 
+mistake newbies make 
+test every single line by printing it 
+then debugging 
+look at documentation by googling
+limit to 10 minute per problem and
+ look at the solution and reerverse engineer the problem and 
+think what part is separating from your solution
+create mental link between your ans and solution and try to write the answer again 
+Reset the solution and try to rebuild it after 2 to 3 days and 
+check if you have learned it or not 
+ 
+RECAP
+think problem as i/p to o/p
+ask how ?
+go to docs 
+test each line
+do this for many problems
+
+
+
+
+

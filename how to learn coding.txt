@@ -1,0 +1,103 @@
+1.repetition by application Learn by doing
+2.spaced learning so study less 2hr coding session every morning instead of 8 hr continuous
+3.Don't be too hard stop watching tutorial only for advanced 
+you can watch it rest learn all the basics by yourself
+4.surround yourself with like minded people join discord slack etc
+5.utility based learning :- learn basics and skip advanced 
+don't try to learn anything 
+
+---------------------------
+Fastest way to learn web development 
+1.front end - html css js -stuck in basics evven worse 60 hrs of tutorial 
+spend minimun amount of time watching and maximum amount of time doing
+w3 schools 
+html -go till graphics
+css - go till grid
+js-go til dom
+test your knowledge by quiz and test
+css is hard to debug use tailwind 
+2.js framework - Angular or React
+3.react & tailwind css image gallery
+4.linkedin clone -clever qazi
+5.portfolio website 
+6.projects like clone to do web app 
+7.backend -nodejs -express 
+8.database - sql and nosql -mongodb
+learn by building look docs and lookup online 
+9.build fullstack clone
+10.add backend on front end apps
+11.interviews
+
+->->_>_>_____________________>--..->->-.>_>>-._.>__
+<--------------------------------------------------------->
+
+How I would learn to code
+pick one language and master it 
+learn by doing stop watching tutorial
+build guided projects and documentation
+build your own projects
+learn ds & Algo
+
+sahil gaba -power couple
+how youtube ruined my career
+there is no shortcut to success in coding
+do exercises stop videos 
+web development is broad and takes to much time
+master one language as a begineer
+it takes a lot of time to become good coder 
+skip short time videos 
+and don't watch 10+hrs video it is waste of time 
+you want retain much information don't try to learn everything 
+make sure basics is done correctly 
+learn debuging
+dunning kruger effect 
+you ll always face roadblocks 
+have support system
+solid understanding of algorithms and data structure 
+
+
+smart work --know what to use and how to use
+leetcodes
+
+
+
+prep for interview 
+self belief keep applying u ll have 100s of rejection until you get
+good job
+
+
+learn web dev + leetcode + DSA 
+
+coding interview - leetcode
+begin with end in mind 
+solve question in 45 mins 
+system design interview-design instagrm -groking the system design
+code karle
+ownership scaling ambiguity -hiring manager
+behaviourial interview- star method
+
+coding interview
+problem solving skills
+14 pattern  hacker noon and only 1 course to master DSA 
+pareto principle 
+interview kickstart
+interviewers help the interviewee
+pay attention to hinds 
+don't ques your ability have faith practice perseverance 
+stop taking rejection personally and have fun while doing coding ques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

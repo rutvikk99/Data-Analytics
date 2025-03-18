@@ -1,0 +1,75 @@
+YAML
+
+USED AS OBJECT SERIALIZATION 
+IT IS CASE SENSITIVE
+IT STARTS WITH ---
+AND END WITH ...
+
+1 key value pair kind DATATYPE
+"apple":"I am red fruit"
+1:"this is  my number"
+ 
+ 2 LIST DATATYPE 
+#lists
+apple 
+mango
+banana
+Apple  
+
+ 3 BLOCK STYLE
+ cities:
+ -mumbai
+ -rajkot
+ -new delhi
+ 
+ cities:[mumbai,rajkot,new delhi]
+ 
+ ---
+ {mango:"yellow" age:55}
+ 
+ datatypes 
+#String variables
+myself :rutvik
+fruit:"apple"
+
+bio: |
+hey my name is rutvik 
+i am a engineer 
+
+#write a single line in multiple line
+message:>
+this will
+all be 
+in one single line
+
+#specify the type
+zero :!!int 0
+binarynum :!!int 0b1
+marks:!!float 56.89
+not a num: .n
+~ :!null NULL
+date:timestamp 2022 -12-16
+
+ADVANCED DATATYPES
+sequence
+sparse sequence
+nested sequence
+map - key value pair are also map
+nested map 
+pairs :keys may have duplicate values.
+#omap
+anchoirs-reusing some properties1
+school:
+-name:smhs
+ principal:xyz
+ Students:
+ -rno:12
+  name:rutvik kachchhi
+  marks:67
+
+
+➡️ Resources:
+Lens: https://k8slens.dev/?utm_source=Cloud...
+Monokle: https://github.com/kubeshop/monokle?u... 
+Datree: https://datree.io/?utm_source=youtube...
+How to validate Kubernetes YAML files: https://itnext.io/how-to-validate-kub...

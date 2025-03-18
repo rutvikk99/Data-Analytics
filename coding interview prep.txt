@@ -1,0 +1,18 @@
+how to go from 0 to passing a coding interview 
+1.learn the fundamentals of the language
+2.toy problems .codewars reverse engineering the solution or surrender method give up aafteer 10 minutes and see the soln
+3.udemy interview bootcamp
+4.data structures and algos -book  higher level problems
+5.leetcode 50questions + algos 
+INPUT
+OUTPUT
+EDGE CASES
+ASSUMPTIONS
+use diagrams pseudo code on paper 
+
+how to stay focused while learning to code
+1.pomodoro timer
+2.journal 
+3.code in the morning
+4.watch  1.5x speed videos
+5.health
